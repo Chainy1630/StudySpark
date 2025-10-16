@@ -4,11 +4,10 @@ This is a full-stack application that helps students study more effectively by l
 
 ## Tech Stack
 
-- **Frontend:** React, Vite, Axios, React Router
-- **Backend:** Java, Spring Boot, Spring Data MongoDB
+- **Frontend:** React, Vite
+- **Backend:** Java, Spring Boot
 - **Database:** MongoDB
 - **AI/NLP:** Placeholder service for LLM integration (e.g., Gemini API, OpenAI)
-- **Deployment:** Docker
 
 ## Features
 
@@ -16,16 +15,6 @@ This is a full-stack application that helps students study more effectively by l
 - **Auto-Summarize:** Generate concise summaries of the uploaded content.
 - **Quiz Generation:** Automatically create Multiple Choice Questions (MCQs) based on the notes.
 - **Flashcard Mode:** Generate and review flashcards for key terms and concepts.
-
-## Getting Started
-
-### Prerequisites
-
-- Java 17+
-- Maven 3.8+
-- Node.js 18+
-- Docker & Docker Compose
-- MongoDB instance (can be run via Docker)
 
 ### Running the Application
 
